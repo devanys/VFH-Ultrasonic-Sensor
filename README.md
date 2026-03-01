@@ -27,6 +27,8 @@ https://github.com/user-attachments/assets/1b9d81cc-97cc-47d6-8323-0f53fee3ab72
 | TRIG        | D2          |
 | ECHO        | D3          |
 ---
+<img width="1280" height="963" alt="Untitled design (3)" src="https://github.com/user-attachments/assets/2533dc38-a42d-41f1-b7dd-c03a3eb8f701" />
+
 
 ### 1. Distance — Sensor Reading
 
